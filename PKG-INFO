@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: django-ask-sdk
-Version: 1.0.0
+Version: 1.0.1
 Summary: The Django ASK SDK package provides support for using ASK SDK and Django, to deploy custom skills as webservice
 Home-page: https://github.com/alexa/alexa-skills-kit-sdk-for-python
 Author: Alexa Skills Kit
